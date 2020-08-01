@@ -57,7 +57,7 @@ html,body,#root{
 }
 body{
   -webkit-font-smoothing:antialiased;
-  background:#F8F9FD;
+  background:#fff;
 }
 body,input,button{
   font: 14px 'Campton',sans-serif;
