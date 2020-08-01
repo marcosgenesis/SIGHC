@@ -4,7 +4,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-A ideia de fazer esse software surgiu quando minha irmã montou uma pizzaria, e algo que me incomodava muito foi o fato de tudo ser conforme as outras pizzarias da minha cidade, no papel. Na minha cabeça não era uma maneira eficiente de se lidar com pedidos, então me desafiei a criar esse projeto (que ainda está em desenvolvimento) envolvendo uma solução para administração (WEB) e uma solução para os motoboys e para a produção da pizzaria (Mobile).
+A ideia principal desse software surgiu na disciplina de Requisitos de Software. E ele consiste em um sistema de controle das horas complementares para os alunos das universidades. No inicio era só pra ser um protótipo, porém resolvemos implementar
 
 ![](https://i.picasion.com/pic90/8c809ea5e531b1f13ffc5796ea04f3d3.gif)
 
